@@ -1,0 +1,82 @@
+[
+    {
+    "furigana": "わたし",
+    "kanji": "私",
+    "romanji": "watashi",
+    "vietnamese": "Tôi",
+    "favourite": 0,
+    "vocabularyID" : "1"
+    },
+    {
+    "furigana": "わたしたち",
+    "kanji": "私達",
+    "romanji": "watashitachi",
+    "vietnamese": "Chúng ta",
+    "favourite": 0,
+    "vocabularyID" : "2"
+    },
+    {
+    "furigana": "あなた",
+    "kanji": "貴方",
+    "romanji": "anata",
+    "vietnamese": "Bạn (ngôi thứ 2)",
+    "favourite": 0,
+    "vocabularyID" : "3"
+    },
+    {
+    "furigana": "ともだち",
+    "kanji": "友達",
+    "romanji": "tomodachi",
+    "vietnamese": "Bạn bè",
+    "favourite": 0,
+    "vocabularyID" : "4"
+    },
+    {
+    "furigana": "じしょ",
+    "kanji": "辞書",
+    "romanji": "jisho",
+    "vietnamese": "Từ điển",
+    "favourite": 0,
+    "vocabularyID" : "5"
+    },
+    {
+    "furigana": "これ",
+    "kanji": "",
+    "romanji": "kore",
+    "vietnamese": "cái này, đây (vật ở gần người nói)",
+    "favourite": 0,
+    "vocabularyID" : "6"
+    },
+    {
+    "furigana": "それ",
+    "kanji": "",
+    "romanji": "sore",
+    "vietnamese": "cái đó, đó (vật ở gần người nghe)",
+    "favourite": 0,
+    "vocabularyID" : "7"
+    },
+    {
+    "furigana": "あれ",
+    "kanji": "",
+    "romanji": "are",
+    "vietnamese": "cái kia, kia (vật ở xa cả người nói và người nghe)",
+    "favourite": 0,
+    "vocabularyID" : "8"
+    },
+    {
+    "furigana": "ざっし",
+    "kanji": "雑誌",
+    "romanji": "zassi",
+    "vietnamese": "tạp chí",
+    "favourite": 0,
+    "vocabularyID" : "9"
+    },
+    {
+    "furigana": "しんぶん",
+    "kanji": "新聞",
+    "romanji": "sinbun",
+    "vietnamese": "báo",
+    "favourite": 0,
+    "vocabularyID" : "10"
+    },
+]
